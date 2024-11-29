@@ -1,7 +1,4 @@
-# Python-Week-3
-Here is a sample README file for the Python program described above:
-
----
+# Python-Week-
 
 # Calculate Discount Program
 
