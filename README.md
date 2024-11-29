@@ -1,4 +1,4 @@
-# Python-Week-
+# Python-Week-3
 
 # Calculate Discount Program
 
